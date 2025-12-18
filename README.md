@@ -36,4 +36,4 @@ Systém pracuje na principu **napěťového děliče**. Ten je tvořen fotorezis
 * **Noční světlo:** Orientační osvětlení chodby s minimální spotřebou ve dne.
 
 ## 📸 Schéma zapojení
-![Schéma zapojení](schema.png)
+![Schéma zapojení](schéma.png)
